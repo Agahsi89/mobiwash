@@ -1,0 +1,17 @@
+user-account {
+    .button-md {
+        height: 5em;
+        text-transform: capitalize;
+    }
+    .scroll-content {
+        padding-bottom: 56px;
+    }
+    .logo {
+        width: 100%;
+        background-repeat: no-repeat;
+        height: 80vw;
+        background-position: center;
+        //background-image: url("../assets/imgs/logo.png");
+        background-size: contain;
+    }
+}
